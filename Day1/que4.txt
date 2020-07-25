@@ -1,0 +1,4 @@
+5.How is the verifiability of blockchain been attained?
+Transaction are encrypted and stored on multiple devices, or nodes around the globe. 
+This decentralization, transparency, widely-verifiable, and append-only nature makes it almost impossible to tamper with data. 
+Therefore, access can be restricted and information can be encrypted to protect confidentiality.

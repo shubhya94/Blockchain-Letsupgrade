@@ -1,0 +1,4 @@
+Question 2. What is the core problem blockchain trying to solve?
+
+The Blockchain solves the problem of Data Security and trust by making the ledger public.
+It also protect itself from willful fraud and theft

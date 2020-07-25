@@ -1,0 +1,4 @@
+       Que 4 .What does the block contains?
+	 1. Block store information about transaction like date,time and dollar amount
+	 2. Block store information about who is participating in transcations
+	 3. Block store information about that distinguishes them other from other blocks

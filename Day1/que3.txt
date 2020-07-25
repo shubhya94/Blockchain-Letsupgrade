@@ -1,0 +1,32 @@
+Que 3 Features of BLOCKCHAIN
+1. Increased Capacity
+This is the first and an important feature of Blockchain. 
+The most remarkable thing about this Blockchain technology is that it increases the capacity of the whole network. 
+Because of the reason that there are a lot of computers working together which in total offers a great power then 
+few of the devices where the things are centralized.
+
+
+2. Better Security
+Blockchain technology has a better security because there is not even a single chance of shutting down of the system.
+Even the highest level of the financial system are subject to get hacked. 
+Bitcoin in the second hand had never been hacked. 
+the reason is that the blockchain network is secured by a number of computers called nodes and these nodes 
+confirm the transaction on this network.
+
+3. Immutability
+Creating immutable ledgers is one of the main values of Blockchain. 
+Any database that is centralized is subjected to get hacked and they require trust in the third party to keep the database secure. 
+Blockchain like Bitcoin keeps its ledgers in a never-ending state of forwarding momentum.
+
+
+4.Faster Settlement
+Traditional banking systems can be slow, 
+as they require a lot of settlement time which usually takes days to proceed. 
+This is one of the main reason why these banking institutes need to upgrade their banking systems.
+
+5. Decentralized System
+Decentralized technology gives you the power to store your assets in a network which further access by the means of the internet, 
+an asset can be anything like a contract, a document etc.
+
+6. Minting
+Basically, there are a lot of ways of minting a problem of manipulation that we can solve by Blockchain.
